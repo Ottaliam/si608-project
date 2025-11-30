@@ -1,0 +1,13 @@
+[project]
+name = "si608-project"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "duckdb>=1.4.1",
+    "igraph>=1.0.0",
+    "matplotlib>=3.10.7",
+    "numpy>=2.3.4",
+    "polars>=1.34.0",
+    "pyarrow>=22.0.0",
+    "seaborn>=0.13.2",
+]
